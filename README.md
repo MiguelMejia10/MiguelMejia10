@@ -1,3 +1,33 @@
+# Hi There:earth_americas:
+
+Welcome to my github profile! :star:
+
+
+_I'm a Back end web developer from Colombia, passionate about learning and teaching._
+
+:zap:Skills
+======
+
+| Skills | Level  | Time Experence  |
+| ------------- |:-------------:| -----:|
+| ☕️ Java      | Medium | 20 Months |
+|:leaves: Spring | Medium     |   20 Months |
+| 🐍 Python  | Medium      |   3 Months |
+|⚙️🛠️ Devops| Medium | 8 Months  |
+|🐳 Docker | Medium     |   8 Months |
+| ☁️ Azure  | Low - Medium     |    4 Months |
+| ☁️ AWS   | Low - Medium     |    4 Months |
+
+
+📈Studying
+======
+:snowflake:Kubernetes
+
+Javascript
+
+
+Description
+======
 - 👋 Hi, I’m @MiguelMejia10
 - 👀 I’m interested in JAVA , SPRING , PYTHON , DEVOPS
 - 🌱 I’m currently learning Flask , Scrapy , Kubernetes
