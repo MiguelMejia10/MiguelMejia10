@@ -8,15 +8,15 @@ _I'm a Back end web developer from Colombia, passionate about learning and teach
 :zap:Skills
 ======
 
-| Skills | Level  | Time Experence  |
-| ------------- |:-------------:| -----:|
-| ☕️ Java      | Medium | 20 Months |
-|:leaves: Spring | Medium     |   20 Months |
-| 🐍 Python  | Medium      |   3 Months |
-|⚙️🛠️ Devops| Medium | 8 Months  |
-|🐳 Docker | Medium     |   8 Months |
-| ☁️ Azure  | Low - Medium     |    4 Months |
-| ☁️ AWS   | Low - Medium     |    4 Months |
+| Skills | 
+| ------------- |
+| ☕️ Java      |
+|:leaves: Spring | 
+| 🐍 Python  | 
+|⚙️🛠️ Devops| 
+|🐳 Docker | 
+| ☁️ Azure  | 
+| ☁️ AWS   | 
 
 
 📈Studying
